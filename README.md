@@ -17,7 +17,7 @@ Creation of a video game using Unity and C#
 // Art work: 
 
 //Tile set: 
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmtRcm5TM3pmVmVPblJPXzJxeGhlTUhONGdzUXxBQ3Jtc0ttcUxYWVAzbUJkVDhWaWlIZ3piZGQwTnZRbzV4azRSYjZUY3pOVmZ2Ynk0UlV2S19rQ0NDOC14cUZ0c3Uwc3A0Tmh0eEZ2MkR0NExEaFpyc3FrdGlnOTFKd2dRZ2d1NHhoM2lWdU1NLXhQYXZRRTNqNA&q=https%3A%2F%2Fwww.spriters-resource.com%2Fmobile%2Fflappybird%2Fsheet%2F59894%2F
+https://www.spriters-resource.com/mobile/flappybird/sheet/59894/
 
 //The flappy bird font:
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblJUakFMd0pDdFluNHduRjFxRThtLWgzQ3RJUXxBQ3Jtc0tsRUNHX1FENWhDTlBOZ0lINkdWVXBZblZqSHpvTHUzMHlaUTlEd1V5YzJSSERRWFhwcERpUzJUQ3F4WHJxdTlnZkwxb05SQnNtZ2doNWZTdk5uNThiek5HUDVsMGo3Q3VRZ0FBTEw3cDBoeXJNMEwtUQ&q=https%3A%2F%2Fwww.dafont.com%2F04b-19.font
+https://www.dafont.com/04b-19.font
